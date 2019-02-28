@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AYAPLUS</string>
+    <string name="username">UserName</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="not_registered">not_registered</string>
+    <string name="register">register</string>
+    <string name="confirmpassword">confirmpassword</string>
+    <string name="already_registered">already registered?</string>
+    <string name="welcome">welcome home page</string>
+</resources>
